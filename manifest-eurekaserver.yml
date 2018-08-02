@@ -1,5 +1,5 @@
 applications:
-- name: tracker-allocations
+- name: eureka-server
   path: ./platform-services/eureka-server/build/libs/eureka-server.jar
   routes:
   - route: eurekaserver-pal-rn.apps.evans.pal.pivotal.io
